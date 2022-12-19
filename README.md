@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=Ljhee's%20Github%20❄️&fontSize=90" />
 
-<p align="center">
-  <img src="![IMG_2635](https://user-images.githubusercontent.com/96717686/208418103-2b18b259-ea1a-48f8-b044-6e47700b7759.jpg)">
-</p>
+<img src="![IMG_2635](https://user-images.githubusercontent.com/96717686/208418103-2b18b259-ea1a-48f8-b044-6e47700b7759.jpg)">
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
