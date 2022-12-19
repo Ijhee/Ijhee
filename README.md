@@ -2,6 +2,5 @@
 
 [![Ljhee's github stats](https://github-readme-stats.vercel.app/api?username=Ijhee&theme=tokyonight)](https://github.com/Ijhee/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ljhee)](https://solved.ac/ljhee)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljhee)](https://solved.ac/ljhee)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ljhee)](https://solved.ac/ljhee)
+
